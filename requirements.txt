@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+requests==2.31.0
+beautifulsoup4==4.12.2  # Add the latest version or the version you need
+python-dotenv==1.0.0    # Add the latest version or the version you need
