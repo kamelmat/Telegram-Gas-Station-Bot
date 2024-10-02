@@ -6,7 +6,7 @@ This is a Telegram bot that helps users find the cheapest gas station near their
 
 ## 🛠️ Setup
 
-1. **Clone this repository**:# 🚀 ### Telegram Gas Station Finder Bot
+1. **Clone this repository**:# 🚀 ***Telegram Gas Station Finder Bot***
 
 Welcome to the **Telegram Gas Station Finder Bot**! This innovative bot helps you discover the cheapest gas stations near your location, making your travels more economical and efficient. With the power of the Overpass API and Google Maps, navigating to your next fill-up has never been easier!
 
